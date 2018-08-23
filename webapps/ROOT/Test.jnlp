@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?> 
-<jnlp spec="1.0+" codebase="http://52.14.108.152" href="Test.jnlp">
+<jnlp spec="1.0+" codebase="http://13.59.71.236" href="Test.jnlp">
 	<information>
 		<title>Jnlp Testing</title>
 		<vendor>YONG MOOK KIM</vendor>
-		<homepage href="http://52.14.108.152" />
+		<homepage href="http://13.59.71.236" />
 		<description>Testing Testing</description>
 	</information>
 	<security>
